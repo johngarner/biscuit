@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![Banner](assets/vienna-3.png)
+![Headshot](assets/vienna-3.png)
 
 ## Hi, I’m John Garner.
 
@@ -22,9 +22,12 @@ I’m a learner, designer, artist, and software engineer. I helped found a compa
 
 ## Example tag usage
 
-## Header 1
-### Header 2
-#### Header 3
+# Header 1
+## Header 2
+### Header 3
+#### Header 4
+##### Header 5
+###### Header 6
 **bold**
 *italic*
 
