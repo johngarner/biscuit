@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![Banner](assets/vienna-3.jpg)
+![Banner](assets/vienna-3.png)
 
 # John Garner
 
