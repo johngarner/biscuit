@@ -4,9 +4,10 @@ layout: default
 
 ![Banner](assets/vienna-3.png)
 
-# John Garner
+## Hi, I’m
+# John Garner.
 
-**[Biscuit](http://sblisesivdin.github.io/biscuit)** is a single-page responsive Jekyll theme. This is the most simple and still-good-looking Jekyll theme that you can find. 
+I’m a learner, designer, artist, and software engineer. I helped found a company building the future of recruiting with backing from Kleiner Perkins and clients ranging from pre-seed startups to the Fortune 500. My work has been featured by the Minneapolis Institute of Art, Adobe, and Macalester College.
 
 ## Usage
 
