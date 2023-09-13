@@ -4,13 +4,24 @@ layout: default
 
 ![Headshot](assets/vienna-3.png)
 
-## Hi, I’m John Garner.
+# Hi, I’m John Garner.
+## I’m a learner, designer, artist, and software engineer.
+I helped found a company building the future of recruiting with backing from Kleiner Perkins and clients ranging from pre-seed startups to the Fortune 500. My work has been featured by the Minneapolis Institute of Art, Adobe, and Macalester College.
 
-I’m a learner, designer, artist, and software engineer. I helped found a company building the future of recruiting with backing from Kleiner Perkins and clients ranging from pre-seed startups to the Fortune 500. My work has been featured by the Minneapolis Institute of Art, Adobe, and Macalester College.
+[LinkedIn](https://www.linkedin.com/in/john-garner/) / [GitHub](https://github.com/johngarner) / [Email](mailto:john@garner.io)
 
-[LinkedIn](https://www.linkedin.com/in/john-garner/)  /  [GitHub](https://github.com/johngarner)  /  [Email](mailto:john@garner.io)
+## About me
+---
 
-### Files
+---
+
+test
+---
+
+
+---
+
+
 
 * `_config.yml`            : Main configuration file.
 * `index.md`               : Website page (for now, this page).
@@ -26,8 +37,6 @@ I’m a learner, designer, artist, and software engineer. I helped found a compa
 ## Header 2
 ### Header 3
 #### Header 4
-##### Header 5
-###### Header 6
 **bold**
 *italic*
 
