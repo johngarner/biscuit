@@ -2,8 +2,9 @@
 layout: default
 ---
 
-![Banner](assets/vienna-3.png)
+![Banner](assets/vienna-3.jpg)
 
+# John Garner
 
 **[Biscuit](http://sblisesivdin.github.io/biscuit)** is a single-page responsive Jekyll theme. This is the most simple and still-good-looking Jekyll theme that you can find. 
 
