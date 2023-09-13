@@ -9,8 +9,9 @@ I’m a learner, designer, artist, and software engineer. I helped found a compa
 
 [LinkedIn](https://www.linkedin.com/in/john-garner/) / [GitHub](https://github.com/johngarner) / [Email](mailto:john@garner.io)
 
-## About me
 ---
+
+## About me
 I’m a highly detail-oriented, human-centered designer who strives to improve the lives of people in this world. I feel joy when a well-crafted product adapts to my needs, improves my quality of life, and functions elegantly. This is what I pursue in my work.
 
 I have experience in:
@@ -22,29 +23,3 @@ I have experience in:
 I’ve been a YouTuber, achieving roughly 1,000,000 views and a student of Macalester College, graduating with a BA in Computer Science, Data Science, and Studio Art.
 
 I enjoy spending my free time scuba diving, reading, traveling, playing a variety of instruments (primarily the piano), and learning Slovene. [Hvala!](https://translate.google.com/?sl=sl&tl=en&text=Hvala!)
-
-
-
-* `_config.yml`            : Main configuration file.
-* `index.md`               : Website page (for now, this page).
-* `_includes/head.html`    : File to add custom code to `<head>` section.
-* `_includes/scripts.html` : File to add custom code before `</body>`. You can change footer at here.
-* `_sass` folder           : Related scss files can be found at this folder.
-* `css/main.csss`          : Main scss file.
-* `README.md`              : A simple readme file.
-
-## Example tag usage
-
-# Header 1
-## Header 2
-### Header 3
-#### Header 4
-**bold**
-*italic*
-
-> blockquotes
-
-~~~python
-import os,time
-print ("Biscuit")
-~~~
